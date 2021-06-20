@@ -21,8 +21,8 @@ We can take the example of the playing card deck as the player set the card deck
 
 ## When to use
 
-- Insertion sort is used when number of elements is small. 
+- Insertion sort is used when number of **elements is small.**
 
-- It can also be useful when input array is almost sorted, only few elements are misplaced in complete big array.
+- It can also be useful when input array is **almost sorted**, only few elements are misplaced in complete big array.
 
 Here is the [link](https://www.youtube.com/watch?v=OGzPmgsI-pQ) of the video from GeeksforGeeks which might clear you idea.
