@@ -18,4 +18,4 @@ Bubble sort is easy to implement.
 
 It is fast enough when you have small data sets.
 
-Here is the [link](https://www.youtube.com/watch?v=nmhjrI-aW5o){:target="_blank"} of the video from GeeksforGeeks which might clear you idea.
+Here is the [link](https://www.youtube.com/watch?v=nmhjrI-aW5o){:target="_blank" rel="noopener"} of the video from GeeksforGeeks which might clear you idea.
