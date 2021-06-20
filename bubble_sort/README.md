@@ -12,14 +12,12 @@ Sometimes its refer to as sinking sort, where the bubble which is lighter than w
 4. Then decrease the search length by 1 as the last element is the largest.
 5. Repeat this process and you are done. :fire:
 
-
 ## Space and time complexity
 
 * Worst complexity: n^2
 * Average complexity: n^2
 * Best complexity: n
 * Space complexity: 1
-
 
 ## When to use
 
