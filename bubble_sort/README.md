@@ -23,6 +23,6 @@ Sometimes its refer to as sinking sort, where the bubble which is lighter than w
 
 - Bubble sort is easy to implement.
 
-It is fast enough when you have small data sets.
+- It is fast enough when you have small data sets.
 
 Here is the [link](https://www.youtube.com/watch?v=nmhjrI-aW5o) of the video from GeeksforGeeks which might clear you idea.
