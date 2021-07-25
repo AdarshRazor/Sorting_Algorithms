@@ -26,7 +26,7 @@ We will learn more about these sorting algorithms one by one.
   * **Space Complexity:** O(1)
 
   It is an sorting algorithm. Where the larger elements sort down to last and the smaller ones comes first. 
-  [read more](./bubble_sort/README.md)
+  [read more](./bubble_sort)
 
   ![Bubble Sort](./bubble_sort/bubble_sort.png)
 
