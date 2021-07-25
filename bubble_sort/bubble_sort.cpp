@@ -4,7 +4,7 @@ using namespace std;
 void bubbleSort(int arr[], int n)
 {
     int i, j;
-    for(i=0; i<n-1; i++) // to reduce no. from behind
+    for(i=0; i<n-1; i++) // to reduce no. from behind 
     {
         for(j=0; j<n-i-1; j++) // increment the no. from 0 to end
         {
