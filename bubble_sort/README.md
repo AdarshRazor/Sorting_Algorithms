@@ -2,7 +2,7 @@
  
 It is an sorting algorithm. Where the larger elements sort down to last and the smaller ones comes first.
 
-Sometimes its refer to as sinking sort, where the bubble which is lighter than water comes to the top and the heavier items sinks to the down bottom.
+Sometimes its refer to as sinking sort, where the bubble which is lighter comes to the top and the heavier items sinks to the down bottom.
 
 ## Implementation
 
